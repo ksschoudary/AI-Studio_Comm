@@ -1,0 +1,5 @@
+{
+  "name": "Commodity Sentiment Pulse",
+  "description": "Real-time sentiment analysis for key commodities (Wheat, Cashew, Maize, Chana, Sugar) in Indian and Global contexts using Gemini AI.",
+  "requestFramePermissions": []
+}
